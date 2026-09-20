@@ -30,12 +30,12 @@ Official standalone builds with an embedded Java runtime are available directly 
 
 | Operating System | Package Format | Details | Download Link |
 | :--- | :--- | :--- | :--- |
-| **macOS** (Intel / Apple Silicon) | **`.dmg`** | Native installer with drag-and-drop to Applications | [Download `.dmg`](https://github.com/xcoj027/dev-sandbox-release/releases/latest) |
+| **macOS** (Intel / Apple Silicon) | **`.dmg`** | Native installer with drag-and-drop to Applications | [Download `.dmg`](https://github.com/xcoj027/dev-sandbox-release/releases/tag/latest) |
 | **macOS** (Portable) | **`.zip`** | Portable `DevSandbox.app` bundle | [Download `.zip`](https://github.com/xcoj027/dev-sandbox-release/releases/latest) |
-| **Windows** (64-bit) | **`.zip`** | Portable folder with `DevSandbox.exe` (no installation required) | [Download `.zip`](https://github.com/xcoj027/dev-sandbox-release/releases/latest) |
-| **Linux** (Debian / Ubuntu) | **`.deb`** | Standard desktop package installer with launcher shortcut | [Download `.deb`](https://github.com/xcoj027/dev-sandbox-release/releases/latest) |
-| **Linux** (Any Distro) | **`.tar.gz`** | Portable standalone binary bundle with embedded JRE | [Download `.tar.gz`](https://github.com/xcoj027/dev-sandbox-release/releases/latest) |
-| **Universal (Cross-Platform)** | **`.jar`** | Pure executable JAR (requires Java 21+) | [Download `.jar`](https://github.com/xcoj027/dev-sandbox-release/releases/latest) |
+| **Windows** (64-bit) | **`.zip`** | Portable folder with `DevSandbox.exe` (no installation required) | [Download `.zip`](https://github.com/xcoj027/dev-sandbox-release/releases/tag/latest) |
+| **Linux** (Debian / Ubuntu) | **`.deb`** | Standard desktop package installer with launcher shortcut | [Download `.deb`](https://github.com/xcoj027/dev-sandbox-release/releases/tag/latest) |
+| **Linux** (Any Distro) | **`.tar.gz`** | Portable standalone binary bundle with embedded JRE | [Download `.tar.gz`](https://github.com/xcoj027/dev-sandbox-release/releases/tag/latest) |
+| **Universal (Cross-Platform)** | **`.jar`** | Pure executable JAR (requires Java 21+) | [Download `.jar`](https://github.com/xcoj027/dev-sandbox-release/releases/tag/latest) |
 
 > [!TIP]
 > **No Java pre-installation required!** Native packages (`.dmg`, `.zip` for Windows, `.deb`, `.tar.gz`) come pre-bundled with a dedicated runtime image.
