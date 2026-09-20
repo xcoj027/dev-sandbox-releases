@@ -31,7 +31,7 @@ Official standalone builds with an embedded Java runtime are available directly 
 | Operating System | Package Format | Details | Download Link |
 | :--- | :--- | :--- | :--- |
 | **macOS** (Intel / Apple Silicon) | **`.dmg`** | Native installer with drag-and-drop to Applications | [Download `.dmg`](https://github.com/xcoj027/dev-sandbox-release/releases/tag/latest) |
-| **macOS** (Portable) | **`.zip`** | Portable `DevSandbox.app` bundle | [Download `.zip`](https://github.com/xcoj027/dev-sandbox-release/releases/latest) |
+| **macOS** (Portable) | **`.zip`** | Portable `DevSandbox.app` bundle | [Download `.zip`](https://github.com/xcoj027/dev-sandbox-release/releases/tag/latest) |
 | **Windows** (64-bit) | **`.zip`** | Portable folder with `DevSandbox.exe` (no installation required) | [Download `.zip`](https://github.com/xcoj027/dev-sandbox-release/releases/tag/latest) |
 | **Linux** (Debian / Ubuntu) | **`.deb`** | Standard desktop package installer with launcher shortcut | [Download `.deb`](https://github.com/xcoj027/dev-sandbox-release/releases/tag/latest) |
 | **Linux** (Any Distro) | **`.tar.gz`** | Portable standalone binary bundle with embedded JRE | [Download `.tar.gz`](https://github.com/xcoj027/dev-sandbox-release/releases/tag/latest) |
