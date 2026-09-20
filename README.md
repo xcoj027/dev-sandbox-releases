@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://happy-number.cloud/favicon/apple-touch-icon.png" alt="Dev Sandbox Logo" width="128" height="128">
-
 # Dev Sandbox
 
 ### Lightweight Desktop Control Center & Microservices Launcher
@@ -72,6 +71,15 @@ Official standalone builds with an embedded Java runtime are available directly 
 3. Launch **Dev Sandbox** from Spotlight or Applications.
 4. Select your project root folder (containing `settings.gradle` or `pom.xml`).
 
+> [!NOTE]
+> **macOS Gatekeeper Notice**: Because this open-source application is not signed with an Apple Developer ID certificate, macOS may show a warning (`"DevSandbox.app" Not Opened`).
+> - **Quick fix**: Right-click (or `Control` + click) on `DevSandbox.app` in `/Applications` and select **Open**.
+> - **Or via Terminal**:
+>   ```bash
+>   xattr -cr /Applications/DevSandbox.app
+>   ```
+> - **Or via System Settings**: Go to **System Settings** > **Privacy & Security** > scroll to **Security** and click **Open Anyway**.
+
 ### Windows
 1. Download `DevSandbox-windows-x64.zip`.
 2. Extract the ZIP archive anywhere on your system.
@@ -126,3 +134,4 @@ For issue reports, feature suggestions, or questions, please open an [Issue](htt
 ## License
 
 This software is distributed under the [MIT License](LICENSE).
+
